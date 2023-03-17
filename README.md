@@ -1,6 +1,6 @@
 ### I'm Andie.
 
-#### I'm a quality engineer in Kansas City, MO. 
+#### I'm a software engineer in Kansas City, MO. 
 
 What I'm working on for fun:
 - 🔭 [Cooking Yum](https://github.com/carsoncho/cooking-yum-calculator): a simple React app to calculate recipe stats for [Starfinder](https://paizo.com/starfinder), an RPG.
